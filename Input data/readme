@@ -8,3 +8,5 @@ This was the file that included the metadata that was necessary to complete the 
 It includes information on sex and treatment for each sample. 
 Sex: M or F 
 Treatment: HMB947, HMB947+E, HMB976, HMB976+E (+E indicates the addition of equol producing bacteria) 
+
+Metadata was later subset in Qiime by using feature tables. 
