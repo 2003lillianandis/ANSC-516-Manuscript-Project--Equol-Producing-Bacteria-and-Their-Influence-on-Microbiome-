@@ -3,6 +3,7 @@ readme
 This was the input data that was used in both the Qiime and R scripts. 
 
 Metadata_Equol_v2.txt: 
+
 This was the file that included the metadata that was necessary to complete the analysis. 
 It includes information on sex and treatment for each sample. 
 Sex: M or F 
