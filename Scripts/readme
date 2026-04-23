@@ -1,11 +1,13 @@
 These are the scripts used to complete the analysis. 
 
 Qiime Scripts: 
-Includes all scripts to create all analyses. Each step is listed with exact code for each subset (947-table, 976-table) 
+Includes all scripts to create all Qiime analyses. Each step is listed with exact code for each subset (947-table, 976-table) 
 
 inputs- 
 outputs- 
 
 RStudio Scripts: 
+Includes all scripts to create all RStudio analyses. Each step is listed with exact code for each subset (947-table, 976-table) 
+
 inputs- 
 outputs- 
