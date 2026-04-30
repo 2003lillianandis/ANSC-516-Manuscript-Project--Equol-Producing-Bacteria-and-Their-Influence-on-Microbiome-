@@ -1,11 +1,9 @@
 Qiime2 Scripts: 
 
 Log in to Cluster: 
-ssh <user.name>@bell.rcac.purdue.edu
 
 Join Bell: 
-slist                         
-squeue -A microbiome      
+slist                             
 sinteractive -A microbiome -p cpu -t 2:30:00 -n4
 
 Load Modules: 
